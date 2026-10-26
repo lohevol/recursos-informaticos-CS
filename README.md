@@ -3,9 +3,9 @@
 Este la muestra de la práctica básica diseñado para estructurar y dar estilo a una sección de recursos utilizando tecnologías web fundamentales. El desarrollo se ha gestionado desde la interfaz web de GitHub.
 
 ## Tecnologías utilizadas
-* **HTML5:**
-* **CSS3:**
-* **Git/GitHub:**
+* **HTML5**
+* **CSS3**
+* **Git/GitHub**
 
 ## Archivos creados
 1. `index.html`: Contiene la maquetación principal y la lista de enlaces de interés.
